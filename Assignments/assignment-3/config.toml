@@ -1,0 +1,28 @@
+# config.toml
+[model_params.resnet34]
+learning_rate = 0.01
+optimizer = "adam"
+momentum = 0.9 
+batch_size = 32
+epochs = 1
+
+[model_params.resnet50]
+learning_rate = 0.001
+optimizer = "sgd"
+momentum = 0.5
+batch_size = 64
+epochs = 1
+
+[model_params.resnet101]
+learning_rate = 0.005
+optimizer = "adam"
+momentum = 0.9
+batch_size = 32
+epochs = 1
+
+[model_params.resnet152]
+learning_rate = 0.0001
+optimizer = "sgd"
+momentum = 0.9
+batch_size = 16
+epochs = 1

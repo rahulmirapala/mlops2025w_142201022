@@ -1,0 +1,33 @@
+{
+  "datasource": {
+    "name": "CIFAR10",
+    "num_samples": 100,
+    "train_split": 0.8,
+    "transformations": [
+      "ToTensor",
+      "Normalize"
+    ]
+  },
+  "models_to_train": [
+    {
+      "name": "resnet34",
+      "pretrained": true,
+      "num_classes": 10
+    },
+    {
+      "name": "resnet50",
+      "pretrained": true,
+      "num_classes": 10
+    },
+    {
+      "name": "resnet101",
+      "pretrained": true,
+      "num_classes": 10
+    },
+    {
+      "name": "resnet152",
+      "pretrained": true,
+      "num_classes": 10
+    }
+  ]
+}
