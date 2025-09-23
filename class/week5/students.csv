@@ -1,0 +1,101 @@
+studentId,name,age,email,major,minor,year,gpa
+1,Fifine Eynon,20,feynon0@blogspot.com,Physics,Economics,1,8.03
+2,Sig Kamiyama,19,skamiyama1@sourceforge.net,Computer Science,None,2,8.77
+3,Brittni Linsay,23,blinsay2@sourceforge.net,Biology,Data Science,2,6.92
+4,Dal Vost,21,dvost3@hostgator.com,Mathematics,Art History,2,6.35
+5,Colver Doughill,19,cdoughill4@mediafire.com,Computer Science,Art History,1,7.52
+6,Alon Esel,23,aesel5@ovh.net,Mathematics,Economics,2,6.44
+7,Jamil Davydochkin,20,jdavydochkin6@redcross.org,Mathematics,Statistics,1,9.99
+8,Maynard Limon,21,mlimon7@issuu.com,Physics,None,3,6.21
+9,Julianne Mowat,20,jmowat8@jalbum.net,Mathematics,None,4,6.86
+10,Abbe Arnell,21,aarnell9@hatena.ne.jp,Physics,Economics,1,7.08
+11,Emiline Gabbidon,22,egabbidona@com.com,Physics,Art History,2,6.99
+12,Sollie Carlet,23,scarletb@addthis.com,Chemistry,Economics,4,6.9
+13,Cassie Winstone,25,cwinstonec@goo.ne.jp,Chemistry,Statistics,4,7.54
+14,Hillery Shewery,19,hsheweryd@goo.gl,Mathematics,Economics,3,7.15
+15,Bertrando Dumphy,22,bdumphye@washingtonpost.com,Biology,Economics,4,6.5
+16,Caitlin Malpass,18,cmalpassf@diigo.com,Chemistry,None,2,9.52
+17,Corbet Duggen,24,cduggeng@un.org,Chemistry,Statistics,4,7.08
+18,Cariotta Ricciardiello,25,cricciardielloh@deliciousdays.com,Computer Science,Art History,1,6.78
+19,Lillian McFarlane,23,lmcfarlanei@creativecommons.org,Chemistry,Art History,2,7.75
+20,Kenn McGurk,19,kmcgurkj@pen.io,Chemistry,Economics,4,7.72
+21,Knox Busen,23,kbusenk@census.gov,Physics,Data Science,4,8.92
+22,Rhodia Hinksen,20,rhinksenl@nature.com,Physics,None,1,6.05
+23,Blancha Newbold,24,bnewboldm@ow.ly,Chemistry,Art History,2,7.91
+24,Maryanne Sprowles,20,msprowlesn@microsoft.com,Physics,None,4,9.71
+25,Christean Northcott,24,cnorthcotto@imgur.com,Physics,Statistics,4,7.2
+26,Farand Week,20,fweekp@etsy.com,Biology,Statistics,3,9.87
+27,Lexy Doody,24,ldoodyq@webnode.com,Computer Science,Art History,4,9.72
+28,Hew Berks,21,hberksr@chicagotribune.com,Mathematics,Art History,3,6.49
+29,Jeri Teffrey,20,jteffreys@newsvine.com,Mathematics,None,2,9.47
+30,Emyle Holbie,18,eholbiet@paginegialle.it,Biology,Art History,4,8.6
+31,Melamie Hobden,19,mhobdenu@cisco.com,Biology,Art History,1,6.45
+32,Dale Lukas,24,dlukasv@comcast.net,Chemistry,None,4,9.42
+33,Tallie Shepland,21,tsheplandw@liveinternet.ru,Chemistry,Economics,1,8.06
+34,Virgil Joriot,21,vjoriotx@aol.com,Computer Science,Art History,4,9.37
+35,Abbi Aguirre,20,aaguirrey@yale.edu,Mathematics,Art History,4,9.3
+36,Colas Dicken,19,cdickenz@jalbum.net,Physics,Economics,1,7.44
+37,Rosco Clapton,20,rclapton10@weibo.com,Chemistry,Economics,2,8.28
+38,Lonnie Venneur,18,lvenneur11@wikia.com,Physics,None,2,6.69
+39,Judy Scud,18,jscud12@opera.com,Chemistry,Economics,1,7.03
+40,Morris Fountian,21,mfountian13@skyrock.com,Biology,Statistics,3,7.34
+41,Valencia Callinan,21,vcallinan14@tiny.cc,Mathematics,Statistics,2,6.23
+42,Cos Kybert,20,ckybert15@canalblog.com,Chemistry,Statistics,3,9.59
+43,Julee Tunnicliff,25,jtunnicliff16@cnn.com,Computer Science,Statistics,4,7.28
+44,Dode Spaven,22,dspaven17@infoseek.co.jp,Computer Science,None,2,9.46
+45,Selene Yallowley,24,syallowley18@163.com,Mathematics,Economics,2,8.88
+46,Rhona Faircley,19,rfaircley19@twitpic.com,Biology,Art History,2,7.26
+47,Kendre Calles,22,kcalles1a@harvard.edu,Physics,None,4,6.89
+48,Ronnie Crafts,18,rcrafts1b@toplist.cz,Mathematics,Statistics,2,9.15
+49,Carolee Harriskine,21,charriskine1c@rakuten.co.jp,Biology,Statistics,4,9.47
+50,Lucita Offill,22,loffill1d@army.mil,Physics,Data Science,1,8.95
+51,Sven Kitchinham,18,skitchinham1e@hexun.com,Mathematics,Art History,2,7.18
+52,Aurlie Miranda,22,amiranda1f@pen.io,Mathematics,Statistics,4,7.3
+53,Harmonie Halbeard,25,hhalbeard1g@seesaa.net,Computer Science,Art History,3,7.66
+54,Emmy Thompsett,23,ethompsett1h@ning.com,Biology,Economics,2,8.94
+55,Nerte Turneaux,23,nturneaux1i@tinyurl.com,Physics,Economics,3,7.27
+56,Sheilakathryn Clarridge,18,sclarridge1j@com.com,Physics,Data Science,4,6.76
+57,Ellery Lahive,21,elahive1k@businessweek.com,Physics,Art History,4,7.18
+58,Bride Marrow,21,bmarrow1l@addtoany.com,Chemistry,None,1,7.43
+59,Bradan Klimochkin,20,bklimochkin1m@tmall.com,Biology,None,4,9.19
+60,Bobinette Vannucci,20,bvannucci1n@nps.gov,Chemistry,Statistics,4,8.12
+61,Roger Roussel,25,rroussel1o@dailymotion.com,Mathematics,None,1,6.12
+62,Prentiss Bullers,22,pbullers1p@xrea.com,Mathematics,Data Science,1,7.34
+63,Lanny Monteith,23,lmonteith1q@sphinn.com,Mathematics,Statistics,3,8.86
+64,Farica Bris,18,fbris1r@home.pl,Biology,Art History,2,9.71
+65,Darya Dagwell,22,ddagwell1s@techcrunch.com,Mathematics,Data Science,1,6.2
+66,Maggie Jindra,25,mjindra1t@freewebs.com,Biology,Economics,2,9.58
+67,Even Jeandillou,24,ejeandillou1u@w3.org,Computer Science,None,1,7.99
+68,Kitti Elldred,25,kelldred1v@hud.gov,Mathematics,Statistics,2,7.7
+69,Gordie Grishunin,25,ggrishunin1w@wired.com,Biology,Data Science,3,8.72
+70,Emera Brackley,18,ebrackley1x@about.me,Physics,Art History,3,8.78
+71,Sarge Pain,23,spain1y@skype.com,Biology,Data Science,2,7.79
+72,Malanie Steart,21,msteart1z@hubpages.com,Chemistry,None,2,9.05
+73,Keene Kornyakov,24,kkornyakov20@ocn.ne.jp,Physics,Economics,3,9.17
+74,Nate Mieville,21,nmieville21@bbc.co.uk,Biology,Art History,2,7.77
+75,Cobb Cisson,21,ccisson22@yale.edu,Physics,Art History,3,7.34
+76,Raimondo Alejandro,18,ralejandro23@fda.gov,Computer Science,Economics,2,6.27
+77,Marjie Lippatt,21,mlippatt24@google.ca,Computer Science,Data Science,3,9.66
+78,Harley Nettles,22,hnettles25@boston.com,Computer Science,Data Science,3,7.95
+79,Lea Antrobus,23,lantrobus26@umich.edu,Chemistry,Data Science,1,8.0
+80,Nolana Tanser,22,ntanser27@g.co,Physics,Economics,3,6.68
+81,Hadleigh Kitman,23,hkitman28@earthlink.net,Biology,Art History,1,6.93
+82,Quintus Holtum,19,qholtum29@drupal.org,Physics,Economics,2,9.4
+83,Sergent Rickersey,22,srickersey2a@1688.com,Computer Science,None,1,9.37
+84,Tremain O'Lunny,21,tolunny2b@slideshare.net,Chemistry,None,4,8.85
+85,Katharyn Villaron,24,kvillaron2c@vimeo.com,Biology,Economics,2,7.02
+86,Haleigh Burg,22,hburg2d@facebook.com,Physics,Economics,3,9.41
+87,Alicea Sainer,20,asainer2e@spotify.com,Mathematics,Data Science,2,9.43
+88,Gilemette Garton,23,ggarton2f@lycos.com,Chemistry,None,3,7.05
+89,Colver Flaubert,22,cflaubert2g@cbsnews.com,Chemistry,Economics,3,8.24
+90,Rufus Cardozo,24,rcardozo2h@fda.gov,Physics,None,3,8.08
+91,Lynnette Brandel,19,lbrandel2i@people.com.cn,Physics,Statistics,3,9.54
+92,Donavon Van den Hof,22,dvan2j@cbc.ca,Computer Science,Economics,4,8.5
+93,Drake Standing,24,dstanding2k@geocities.com,Mathematics,Economics,3,8.55
+94,Meir Thrower,23,mthrower2l@go.com,Computer Science,Art History,4,6.14
+95,Sonia Skipper,22,sskipper2m@youtu.be,Mathematics,Statistics,3,6.2
+96,Max Chansonne,19,mchansonne2n@rakuten.co.jp,Chemistry,Art History,4,9.99
+97,Rabbi Pauncefoot,25,rpauncefoot2o@ihg.com,Biology,Economics,1,8.59
+98,Hyacinthe Dibdale,21,hdibdale2p@youtube.com,Biology,None,3,9.37
+99,Joela Garcia,20,jgarcia2q@nih.gov,Computer Science,Statistics,1,6.27
+100,Fitzgerald Willmott,21,fwillmott2r@netscape.com,Mathematics,Statistics,2,7.76
