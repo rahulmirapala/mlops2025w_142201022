@@ -102,7 +102,7 @@ def delete_single_transaction():
     transactions_collection.insert_one({"_id": temp_id})
     transactions_collection.delete_one({"_id": temp_id})
 
-def delete_bulk_transactions_by_query():
+def delete_bulk_transactions_by_country():
     docs = [{"_id": f"TEMP_BULK_DEL_{i}", "customer": {"country": "Testland"}} for i in range(BULK_OPERATION_COUNT)]
     transactions_collection.insert_many(docs)
     transactions_collection.delete_many({"customer.country": "Testland"})
@@ -112,7 +112,7 @@ def delete_single_customer():
     customers_collection.insert_one({"_id": temp_id})
     customers_collection.delete_one({"_id": temp_id})
 
-def delete_bulk_customers_by_query():
+def delete_bulk_customers_by_country():
     docs = [{"_id": f"TEMP_BULK_DEL_CUST_{i}", "country": "Testland"} for i in range(BULK_OPERATION_COUNT)]
     customers_collection.insert_many(docs)
     customers_collection.delete_many({"country": "Testland"})
@@ -139,8 +139,8 @@ if __name__ == "__main__":
     # DELETE
     results["Delete Single Transaction"], _ = time_operation(delete_single_transaction)
     results["Delete Single Customer"], _ = time_operation(delete_single_customer)
-    results[f"Delete Bulk Transactions (by Query)"], _ = time_operation(delete_bulk_transactions_by_query)
-    results[f"Delete Bulk Customers (by Query)"], _ = time_operation(delete_bulk_customers_by_query)
+    results[f"Delete Bulk Transactions (by Country)"], _ = time_operation(delete_bulk_transactions_by_country)
+    results[f"Delete Bulk Customers (by Country)"], _ = time_operation(delete_bulk_customers_by_country)
 
     print("\nPERFORMANCE RESULTS (in milliseconds)")
     for op, duration in results.items():
