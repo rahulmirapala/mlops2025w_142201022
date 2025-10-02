@@ -3,7 +3,6 @@ from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 import time
 import os
-import random
 
 MONGO_URI = "mongodb://localhost:27017/"
 DB_NAME = "OnlineRetailDB"
