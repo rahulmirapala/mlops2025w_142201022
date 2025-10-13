@@ -1,0 +1,32 @@
+# Ignore data folders
+/data/
+data/
+
+# Ignore wandb folders
+/wandb/
+wandb/
+
+# Ignore Python virtual environments
+.venv/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore model files (if they are large)
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# Ignore environment files
+.env
