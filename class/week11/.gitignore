@@ -1,0 +1,5 @@
+wandb/
+
+rf_model.joblib
+
+.ipynb_checkpoints/
